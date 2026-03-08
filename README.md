@@ -58,7 +58,7 @@ multi-agent-ai
 Clone the repository:
 
 ```
-git clone https://github.com/YOUR_USERNAME/multi-agent-ai-system.git
+git clone https://github.com/sandhyaabhishek/multi-agent-ai-system.git
 ```
 
 Navigate into the project:
@@ -149,3 +149,4 @@ B.Tech Information Technology
 
 GitHub: https://github.com/sandhyaabhishek
 LinkedIn: https://linkedin.com/in/abhishek-gautam
+
